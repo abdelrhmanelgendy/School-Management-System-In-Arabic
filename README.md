@@ -1,10 +1,8 @@
-# Kottap-Mangment-System-In-Arabic
-Student Management System By C#
+- 👋 Hi, I’m  abdelrhman elgendy
+- 👀 I’m interested in Writing code and Building Apps 
+- 🌱 I’m currently learning Mobile Apps Developing
+- 📫 How to reach me try 
+-                       https://www.facebook.com/mostafaelgendy243
+-                       or 
+-                       abdelrhmanelgendy243@gmail.com
 
-
-created this app and ready to give any one the source code Just contact me 
--https://www.facebook.com/mostafaelgendy243
-or
--abdelrhmanelgendy243@gmail.com
-to run this app just install .exe file and attach database to your SqlServer
-dont forget to change the server to your server name in the dashboard
